@@ -25,7 +25,7 @@ div.module {
 
     width: 5rem;
     height: 5rem;
-    border: 3px solid grey;
+    border: 3px solid #bbb;
     border-radius: 50%;
     background: white;
 }
